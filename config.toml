@@ -1,0 +1,62 @@
+baseURL = "https://missbunnywoo.github.io"
+languageCode = "en-us"
+title = "Chelsea"
+
+relativeURLs = false
+
+
+disqusShortname = "*****"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+
+	# Render the rotating globe in the sidebar
+	showglobe = true
+
+	# Include favicon
+	favicon = "favicon.ico"
+ 	
+	# Google Analytics
+	analytics = "SHORT-CODE-HERE"
+
+	# Email (optional)
+	email = "2568056498@qq.com"
+	
+	# Header Title for the main page
+	header = "What I'm Thinking"
+	
+	# Sidebar profile picture
+	profilepic = "image/bunny.png"
+	
+	# Title/subtitle for the sidebar
+	title = "step by step"
+	subtitle = "Chelsea"
+	
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/MissBunnyWoo"
+
+	[[params.socialbuttons]]
+	faicon = "qq"
+	url = "2568056498"
+
+
+
+	# Nav links below the profile picture
+	[[params.navlinks]]
+	name = "About"
+	url = "about/"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = "posts/"
+	
+	[[params.navlinks]]
+	name = "Tutorials"
+	url = "tutorial/"
