@@ -6,9 +6,28 @@
     <description>Recent content in Tags on step by step</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2019 22:40:30 +0800</lastBuildDate>
     
 	<atom:link href="https://missbunnywoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tagA</title>
+      <link>https://missbunnywoo.github.io/tags/taga/</link>
+      <pubDate>Sun, 09 Jun 2019 22:40:30 +0800</pubDate>
+      
+      <guid>https://missbunnywoo.github.io/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagB</title>
+      <link>https://missbunnywoo.github.io/tags/tagb/</link>
+      <pubDate>Sun, 09 Jun 2019 22:40:30 +0800</pubDate>
+      
+      <guid>https://missbunnywoo.github.io/tags/tagb/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

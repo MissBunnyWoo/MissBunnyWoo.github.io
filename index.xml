@@ -6,10 +6,28 @@
     <description>Recent content on step by step</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2019 17:51:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2019 22:40:30 +0800</lastBuildDate>
     
 	<atom:link href="https://missbunnywoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>English</title>
+      <link>https://missbunnywoo.github.io/post/english/</link>
+      <pubDate>Sun, 09 Jun 2019 22:40:30 +0800</pubDate>
+      
+      <guid>https://missbunnywoo.github.io/post/english/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://missbunnywoo.github.io/post/golang/</link>
+      <pubDate>Sun, 09 Jun 2019 22:39:56 +0800</pubDate>
+      
+      <guid>https://missbunnywoo.github.io/post/golang/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>hugo搭建博客</title>
